@@ -39,4 +39,4 @@
 24. Смоленская область
 25. Самарская область
 
-<img src="https://github.com/kate00009/Portfolio/blob/main/me.png" alt="Описание" width="300" height="200">
+<img src="me.png" alt="Описание" width="300" height="200">
