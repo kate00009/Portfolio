@@ -39,4 +39,4 @@
 24. Смоленская область
 25. Самарская область
 
-![Я в Сочи](me.jpg)
+![Я в Сочи](https://sun9-33.userapi.com/s/v1/ig2/DHiKspf2NTvFRe7hWnZsi-jJAAtBYEZWzssa6Sz02gQMyFXf2DtmeporWY24965enlxM2ITMOehK18nSAqEBxDaq.jpg?quality=96&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x811,640x961,720x1081,1080x1621,1280x1921,1439x2160&from=bu&cs=1439x0)
